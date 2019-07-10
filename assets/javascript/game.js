@@ -16,11 +16,7 @@ var targetNumber = 75;
     imageCrystal.addClass("crystal-image");
 
     
-    imageCrystal.attr("src", "assets/images/box.gif");
-    imageCrystal.attr("src", "assets/images/pir.gif");
-    imageCrystal.attr("src", "assets/images/spin.gif");
-    imageCrystal.attr("src", "assets/images/box.gif");
-    imageCrystal.attr("src", "assets/images/box.gif");
+    
       <img src="assets/images/box.gif" class="auth-image" alt="box" button id="box.button" value="25">
       <img src="assets/images/pir.gif" class="auth-image" alt="pir" button id="pir.button" value="1">
       <img src="assets/images/spin.gif" class="auth-image" alt="spin" button id="spin.button" value="5">
